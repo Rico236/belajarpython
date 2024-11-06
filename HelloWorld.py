@@ -1,2 +1,2 @@
-
-print("FATHURROHMAN")
+print("YUSUF RICO DWI NURHASIS")
+print("yusuf rico dwi nurhasis")
